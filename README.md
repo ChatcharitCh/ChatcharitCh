@@ -8,7 +8,7 @@ You can call me Oum, nice to meet you, I have a high inspiration for learning co
 
 * 🌍  I'm based in Nonthaburi, Thailand
 * ✉️  You can contact me at [chatcharit.choocherd@gmail.com](mailto:chatcharit.choocherd@gmail.com)
-* ⚡  I’m interested in Java Developer
+* ⚡  I’m interested in Programer/Developer
 
 ### Skills
 
