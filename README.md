@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About Me
 --------
 
-You can call me Oum, nice to meet you, I have a high inspiration for learning coding to be able to think and to do for my passion. I like to drive myself to learn coding and management skills to improve. I enjoy diving into the world of Java and I am constantly pushing myself to explore new concepts, design patterns, and best practices in the Java ecosystem ,continuously expanding my knowledge and honing my skills.
+You can call me Oum, nice to meet you
 
 * 🌍  I'm based in Nonthaburi, Thailand
 * ✉️  You can contact me at [chatcharit.choocherd@gmail.com](mailto:chatcharit.choocherd@gmail.com)
-* ⚡  I’m interested in Programer/Developer
 
 ### Skills
 
